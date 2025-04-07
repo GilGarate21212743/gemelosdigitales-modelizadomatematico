@@ -15,17 +15,17 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/GilGarate21212743/gemelosdigitales-regresionnolineal
+      https://github.com/GilGarate21212743/gemelosdigitales-modelizadomatematico
 abstract: |2-
    Tecnologico Nacional de México 
    Instituto Tecnologico de Tijuana
    Ingeniería Biomédica 
    Gemelos Digitales
-   Práctica 3- Algoritmos de Regresion No lineal
+   Práctica 4- Modelizado Matemático
 keywords:
-  - Growth Law
-  - Nonlinear Regression
-  - Logistic
-  - Allometric
-  - Gompertz
+ - Lotka-Volterra model
+ - Nonlinear regression
+ - Equilibrium points
+ - Jacobian stability analysis
+ - Tumor-normal cell dynamics
 license: BSD-2-Clause
